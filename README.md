@@ -12,9 +12,8 @@ Then came the hard part. To get the third data needed to wrangle from the twitte
 I resolved to use the collated data from Udacity and after so many attempts, I finally had my third data with the desired column - retweets and favourite counts.
 
 # ASSESSING THE DATA
-I assessed the data visually and programmatically, well, in a 10%-90% ratio, because it is easier that way to assess.
-
-I identified eight(8) quality issues and two(2) tidiness issues
+- I assessed the data visually and programmatically, well, in a 10%-90% ratio, because it is easier that way to assess.
+- I identified eight(8) quality issues and two(2) tidiness issues
 
 # QUALITY ISSUES
 - The tweet_id has dtype 'int64' in all datasets
